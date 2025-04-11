@@ -15,7 +15,7 @@ __❓Our focal point is to find the time of the day that has an immense  trascat
 
 __👇 Are steps and their explanations on the way how i managed to achieve the answers to the questions.The steps are from 1-6.__
 
-## STEPS AS INDICATED BY "ACTIVE_SALES.pdf"
+## STEPS AS INDICATED BY "https://github.com/HenrySsali/sales/blob/main/ACTIVE_SALES.pdf"
 __🪜1__
 __We started by importing all the neccessary libraries required ie pandas and matplotlib and the data was imported and printed out.__
 
