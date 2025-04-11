@@ -31,6 +31,7 @@ __From the Time column we need to extract hours from it to create a seperate HOU
 
 __🪜5__
 __We then require the “n” busiest hours. For that, we get the first “n” entries in a list containing the occurrence rates of the hours when the transaction took place. To further simplify the manipulation of the provided data in Python, we may utilize value counts for frequencies and tolist() to convert to list format.We stack the hour and frequencies together to cummulate the results.__
+
 __🪜6__
 __For data visualization, we will proceed with Matplotlib for better comprehensibility, as it is one of the most convenient and commonly used libraries to plot the data graphically.__
 
