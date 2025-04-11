@@ -9,5 +9,9 @@ __>>Every modern company all over the world that operates e-commerce website/app
 |:----------------|:------------|
 |Data Manipulation|Visualisation|
 
+__❓Before we deive into the project ,the data that we have looks to be limited to us and not straight forward to get the solutions for the our question.__
+__❓Our focal point is to find the time of the day that has an immense  trascations that have happened.And from there we can get the answers and make decisions.__
+
+
 
 
