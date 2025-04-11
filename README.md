@@ -15,8 +15,8 @@ __❓Our focal point is to find the time of the day that has an immense  trascat
 
 __👇 Are steps and their explanations on the way how i managed to achieve the answers to the questions.The steps are from 1-6.__
 
-## STEPS AS INDICATED BY THE LINK BELOW
-__"https://github.com/HenrySsali/sales/blob/main/ACTIVE_SALES.pdf"__
+## STEPS AS INDICATED 
+
 __🪜1__
 __We started by importing all the neccessary libraries required ie pandas and matplotlib and the data was imported and printed out.__
 
@@ -35,6 +35,8 @@ __🪜6__
 __For data visualization, we will proceed with Matplotlib for better comprehensibility, as it is one of the most convenient and commonly used libraries to plot the data graphically.__
 
 __The X-axis takes up the values of hours and Y-axis takes up the importance of the number of transactions that occured.__
+
+__All the above steps are demostrated here https://github.com/HenrySsali/sales/blob/main/ACTIVE_SALES.pdf__
 
 ## INFERENCE
 __The results are indicative of how sales typically peak in late evening hours prominently, and this data can be incorporated into business decisions to promote a product during that time specifically as shown here https://github.com/HenrySsali/sales/blob/main/image.png.__
