@@ -15,11 +15,32 @@ __❓Our focal point is to find the time of the day that has an immense  trascat
 
 __👇 Are steps and their explanations on the way how i managed to achieve the answers to the questions.The steps are from 1-6.__
 
-## STEPS
-__🪜1__
+## STEPS AS INDICATED BY ---------------------------------------------------
+__🪜1__![MuaKissGIF](https://github.com/user-attachments/assets/5b287125-57df-413f-8280-f33a8254986d)
+
 __We started by importing all the neccessary libraries required ie pandas and matplotlib and the data was imported and printed out.__
+
 __🪜2__
-__
+__After investigating the data ,no value was missing and we have 4 columns and 581 rows.The columns are Name,Email,Product and Transaction Date.__
+
+__🪜3__
+__Anew column called Time with DateTime formate is extracted from  Transcation Date column.__
+
+__🪜4__
+__From the Time column we need to extract hours from it to create a seperate HOUR column so that we can identify the busiest hours.__
+
+__🪜5__
+__We then require the “n” busiest hours. For that, we get the first “n” entries in a list containing the occurrence rates of the hours when the transaction took place. To further simplify the manipulation of the provided data in Python, we may utilize value counts for frequencies and tolist() to convert to list format.We stack the hour and frequencies together to cummulate the results.__
+__🪜6__
+__For data visualization, we will proceed with Matplotlib for better comprehensibility, as it is one of the most convenient and commonly used libraries to plot the data graphically.__
+
+__The X-axis takes up the values of hours and Y-axis takes up the importance of the number of transactions that occured.__
+
+## INFERENCE
+__The results are indicative of how sales typically peak in late evening hours prominently, and this data can be incorporated into business decisions to promote a product during that time specifically.__
+
+
+
 
 
 
