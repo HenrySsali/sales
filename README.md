@@ -8,6 +8,6 @@ __>>Every modern company all over the world that operates e-commerce website/app
 
 |Pandas           |Matplotlib   |
 |Data Manipulation|Visualisation|
-
+|:----------------|:------------|
 
 
