@@ -6,9 +6,8 @@ __>>Every modern company all over the world that operates e-commerce website/app
 
 ## Prerequisities.
 
-|Pandas - Data Manipulation|Matplotlib - Visualisation|
-|:-------------------------|:-------------------------|
-| Left-Aligned | Center-Aligned | Right-Aligned |
-|:-------------|:--------------:|--------------:|
-| Text         | Text           | Text          |
+|Pandas           |Matplotlib   |
+|Data Manipulation|Visualisation|
+
+
 
